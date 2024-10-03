@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+  height: 200px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 50px 20px;
+  padding: 50px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.nav {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav a {
+  padding: 10px;
+}
+
+.nav a:hover {
+  background-color: #dadada;
+}
+
+.cart {
+  max-width: 500px;
+  margin: auto;
+}
+
+.cart-item {
+  margin-bottom: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.cart-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

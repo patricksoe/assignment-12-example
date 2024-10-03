@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 500000,
+      "name": "Jacket",
+      "description": "Well made jacket",
+      "image": "https://www.stormtechusa.com/cdn/shop/products/AFP-2_FRONT_HOOD_UP_Black_AzureBlue_2000x.jpg?v=1687455870"
+    },
+    {
+      "id": 2,
+      "price": 300000,
+      "name": "Sneakers",
+      "description": "Comfortable and stylish sneakers",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/389383/07/sv01/fnd/IDN/fmt/png/Sepatu-Sneaker-Bari-Casual-Canvas"
+    },
+    {
+      "id": 3,
+      "price": 1500000,
+      "name": "Laptop",
+      "description": "High-performance laptop for all your needs",
+      "image": "https://img.id.my-best.com/product_images/1932bd2bcd35c54bad8aa9fe43d24a5f.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=dde6416d9173074b8147495cf865e802"
+    },
+    {
+      "id": 4,
+      "price": 75000,
+      "name": "Notebook",
+      "description": "A handy notebook for jotting down ideas",
+      "image": "https://yippy-prod.s3.ap-southeast-1.amazonaws.com/images/lEpmWrtUfaELiEVnyjuK3ZCt5pV3xNBaHlgRiMrF.png"
+    },
+    {
+      "id": 5,
+      "price": 250000,
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones",
+      "image": "https://down-id.img.susercontent.com/file/id-11134601-7r98x-lvwwj76sekn1e5"
+    },
+    {
+      "id": 6,
+      "price": 125000,
+      "name": "Water Bottle",
+      "description": "Stainless steel, insulated water bottle",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRke5vUCY2gDkkrLTCYfhddvl7am3X7MqdAng&s"
+    },
+    {
+      "id": 7,
+      "price": 900000,
+      "name": "Smartwatch",
+      "description": "A sleek smartwatch with multiple fitness tracking features",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8szRe1IUNBZizhTLqh3TtOx03qdFYB6XASA&s"
+    },
+    {
+      "id": 8,
+      "price": 45000,
+      "name": "Pen",
+      "description": "A smooth ballpoint pen with black ink",
+      "image": "https://img.id.my-best.com/product_images/44b2ab33109d2642522aa59adb6528a0.png?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=35b10789b72736d6d5280711825ab35f"
+    }
+  ]
+}
