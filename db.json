@@ -1,4 +1,12 @@
 {
+  "users": [
+    {
+      "email": "pat@mail.com",
+      "password": "$2a$10$UpjLujlfcBL4OND.zcYoV.7MR4BudpyLPjwF8Ur7U0GWAGKh4q6rK",
+      "username": "pat",
+      "id": 1
+    }
+  ],
   "products": [
     {
       "id": 1,
